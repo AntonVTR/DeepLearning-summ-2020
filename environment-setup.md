@@ -1,8 +1,14 @@
 Windows 10
 python 3.7.6 x64 (mandatory) https://www.python.org/ftp/python/3.7.6/python-3.7.6-amd64.exe
-Jupiter 
+Jupiter (just a editor, you can use another, this nice cause you can run code by line and do easy debug)
 to install jupyter: pip install jupyterlab
 to start: jupyter lab
 
 pip install tensorflow
 pip install matplotlib
+<<<<<<< HEAD:environment-setup.md
+=======
+
+pytorch
+https://pytorch.org/get-started/locally/
+>>>>>>> environment-need-to-start-deeplearning:environment-setup.md.txt
