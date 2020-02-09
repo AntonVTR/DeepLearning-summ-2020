@@ -6,3 +6,6 @@ to start: jupyter lab
 
 pip install tensorflow
 pip install matplotlib
+
+pytorch
+https://pytorch.org/get-started/locally/
