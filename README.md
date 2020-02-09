@@ -5,21 +5,21 @@ This is collections I started forom scratch for myself to dive into Data Science
 
 This repo based on the github flow principles https://guides.github.com/introduction/flow/
 
-Today is 8 feb 2020
-My evironment is
-OS: Windows 10 x64
-Hardware: Xiaomi Laptop Intel core i5 6200U, 8GB of Ram, dedicated GPU with 1GB
+Today is 8 feb 2020  
+My evironment is:  
+OS: Windows 10 x64  
+Hardware: Xiaomi Laptop Intel core i5 6200U, 8GB of Ram, dedicated GPU with 1GB  
 
-software
--pip
--pyton 3.7.6
--jupyter
+software  
+-pip  
+-pyton 3.7.6  
+-jupyter  
 
-libs
--tensorflow
--matplotlib
+libs  
+-tensorflow  
+-matplotlib  
 and rest see environments setup
 
-If you have question create a issue you can find spesial part for the question.
+If you have question create a issue you can find spesial part for the question.  
 
 If you want to contribute, welcome, create pull request.
