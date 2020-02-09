@@ -6,9 +6,6 @@ to start: jupyter lab
 
 pip install tensorflow
 pip install matplotlib
-<<<<<<< HEAD:environment-setup.md
-=======
 
 pytorch
 https://pytorch.org/get-started/locally/
->>>>>>> environment-need-to-start-deeplearning:environment-setup.md.txt
